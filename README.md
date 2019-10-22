@@ -9,7 +9,9 @@ To submit your lab, fork [this repository](https://github.com/FAR-Lab/IDD-Fa18-L
 ## Make the ChatBot your own
 
 **Describe what changes you made to the baseline chatbot here. Don't forget to push your modified code to this repository.**
-**I made a chad bot, a simply rude and dispicable meme influenced bot**
+
+
+I made a chad bot, a simply rude and dispicable meme influenced bot
 ## Record someone trying out your ChatBot
 
 **Using a phone or other video device, record someone trying out your ChatBot. Upload that video to this repository and link to it here!**
